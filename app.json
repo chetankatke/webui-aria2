@@ -6,7 +6,8 @@
   "keywords": ["AngularJS", "aria2", "static"],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-static"
+      "url": "https://github.com/heroku/heroku-buildpack-static",
+      "url": "https://github.com/Aerovin/aria2c.git"
     }
   ]
 }
